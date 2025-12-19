@@ -11,7 +11,7 @@ function Nav() {
         
         {/* 1. Brand Name / Logo */}
         <Link to="/" className="brand-name">
-          E-Commerce Site
+          UniKart
         </Link>
         
         {/* 2. Navigation Links */}
